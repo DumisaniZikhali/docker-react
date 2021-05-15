@@ -13,7 +13,7 @@ deploy:
   provider: elasticbeanstalk
   region: "af-south-1"
   app: "docker"
-  env: "Docker-env"
+  env: "Docker-env-1"
   bucket_name: "elasticbeanstalk-af-south-1-358985322469" 
   bucket_path: "docker"
   on: 
